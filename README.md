@@ -24,9 +24,10 @@ Para utilizar a calculadora, você só precisa de um navegador web moderno que s
 4. Clique nos botões numéricos para inserir os números desejados.
 5. Utilize os botões de operação para escolher a operação desejada.
 6. Clique no botão "=" para calcular o resultado da operação.
-7. Clique no botão "C" para apagar o último caractere.
-8. Clique no botão "CE" para limpar completamente o visor.
-9. O histórico de operações e resultados será mantido na tela.
+7. Clique no botão "C" para apagar o Numero completo.
+8. Clique no botão "CE" para limpar completamente o visor , inclusive operações passadas.
+9. Clique no botão "DEL" para apagar o último caractere.
+10. O histórico de operações e resultados será mantido na tela.
 
 ## Estrutura de Arquivos
 
